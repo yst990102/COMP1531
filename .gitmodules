@@ -1,0 +1,15 @@
+[submodule "lab01/lab01_names"]
+	path = lab01/lab01_names
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab01_names.git
+[submodule "lab01/lab01_python-strings"]
+	path = lab01/lab01_python-strings
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab01_python-strings.git
+[submodule "lab01/lab01_python-integers"]
+	path = lab01/lab01_python-integers
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab01_python-integers.git
+[submodule "lab01/lab01_python-hello"]
+	path = lab01/lab01_python-hello
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab01_python-hello.git
+[submodule "lab01/lab01_git-basics"]
+	path = lab01/lab01_git-basics
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab01_git-basics.git

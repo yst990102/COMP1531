@@ -133,3 +133,6 @@
 [submodule "lab09/lab09_history"]
 	path = lab09/lab09_history
 	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab09_history.git
+[submodule "lab10/lab10"]
+	path = lab10/lab10
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab10.git

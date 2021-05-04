@@ -1,0 +1,4 @@
+This line could be merged automatically.
+There was no change here either
+Merges are too hard. This change was on the 'merged into' branch
+This is another line that could be merged automatically

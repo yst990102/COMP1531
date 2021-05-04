@@ -40,3 +40,24 @@
 [submodule "lab02/lab02_bmi"]
 	path = lab02/lab02_bmi
 	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_bmi.git
+[submodule "lab03/lab03_timetable"]
+	path = lab03/lab03_timetable
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab03_timetable.git
+[submodule "lab03/lab03_unmasked"]
+	path = lab03/lab03_unmasked
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab03_unmasked.git
+[submodule "lab03/lab03_tree"]
+	path = lab03/lab03_tree
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab03_tree.git
+[submodule "lab03/lab03_tables"]
+	path = lab03/lab03_tables
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab03_tables.git
+[submodule "lab03/lab03_roman"]
+	path = lab03/lab03_roman
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab03_roman.git
+[submodule "lab03/lab03_prefix"]
+	path = lab03/lab03_prefix
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab03_prefix.git
+[submodule "lab03/lab03_magic"]
+	path = lab03/lab03_magic
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab03_magic.git

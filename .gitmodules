@@ -79,3 +79,24 @@
 [submodule "lab04/lab04_circle"]
 	path = lab04/lab04_circle
 	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab04_circle.git
+[submodule "lab05/lab05_simple"]
+	path = lab05/lab05_simple
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab05_simple.git
+[submodule "lab05/lab05_jwt"]
+	path = lab05/lab05_jwt
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab05_jwt.git
+[submodule "lab05/lab05_unpickle"]
+	path = lab05/lab05_unpickle
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab05_unpickle.git
+[submodule "lab05/lab05_process"]
+	path = lab05/lab05_process
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab05_process.git
+[submodule "lab05/lab05_imgsneak"]
+	path = lab05/lab05_imgsneak
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab05_imgsneak.git
+[submodule "lab05/lab05_blackout"]
+	path = lab05/lab05_blackout
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab05_blackout.git
+[submodule "lab05/lab05_team"]
+	path = lab05/lab05_team
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab05_team.git

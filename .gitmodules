@@ -118,3 +118,18 @@
 [submodule "lab08/lab08_requirements"]
 	path = lab08/lab08_requirements
 	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab08_requirements.git
+[submodule "lab09/lab09_lightup"]
+	path = lab09/lab09_lightup
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab09_lightup.git
+[submodule "lab09/lab09_decorator"]
+	path = lab09/lab09_decorator
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab09_decorator.git
+[submodule "lab09/lab09_deploy"]
+	path = lab09/lab09_deploy
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab09_deploy.git
+[submodule "lab09/lab09_fibonacci"]
+	path = lab09/lab09_fibonacci
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab09_fibonacci.git
+[submodule "lab09/lab09_history"]
+	path = lab09/lab09_history
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab09_history.git

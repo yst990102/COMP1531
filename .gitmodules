@@ -61,3 +61,21 @@
 [submodule "lab03/lab03_magic"]
 	path = lab03/lab03_magic
 	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab03_magic.git
+[submodule "lab04/lab04_interleavings"]
+	path = lab04/lab04_interleavings
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab04_interleavings.git
+[submodule "lab04/lab04_matrix"]
+	path = lab04/lab04_matrix
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab04_matrix.git
+[submodule "lab04/lab04_weather"]
+	path = lab04/lab04_weather
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab04_weather.git
+[submodule "lab04/lab04_stack"]
+	path = lab04/lab04_stack
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab04_stack.git
+[submodule "lab04/lab04_primes"]
+	path = lab04/lab04_primes
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab04_primes.git
+[submodule "lab04/lab04_circle"]
+	path = lab04/lab04_circle
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab04_circle.git

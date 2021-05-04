@@ -13,3 +13,30 @@
 [submodule "lab01/lab01_git-basics"]
 	path = lab01/lab01_git-basics
 	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab01_git-basics.git
+[submodule "lab02/lab02_reverse"]
+	path = lab02/lab02_reverse
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_reverse.git
+[submodule "lab02/lab02_lightup"]
+	path = lab02/lab02_lightup
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_lightup.git
+[submodule "lab02/lab02_cipher"]
+	path = lab02/lab02_cipher
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_cipher.git
+[submodule "lab02/lab02_tax"]
+	path = lab02/lab02_tax
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_tax.git
+[submodule "lab02/lab02_password"]
+	path = lab02/lab02_password
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_password.git
+[submodule "lab02/lab02_list"]
+	path = lab02/lab02_list
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_list.git
+[submodule "lab02/lab02_guess"]
+	path = lab02/lab02_guess
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_guess.git
+[submodule "lab02/lab02_count"]
+	path = lab02/lab02_count
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_count.git
+[submodule "lab02/lab02_bmi"]
+	path = lab02/lab02_bmi
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP1531/21T1/students/z5192519/lab02_bmi.git

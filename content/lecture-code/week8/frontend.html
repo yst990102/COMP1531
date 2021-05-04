@@ -1,0 +1,61 @@
+<!--
+HTML (Structure)
+CSS (Visuals / Aesthetics)
+Javascript (Functionality)
+-->
+
+
+<h2 style="font-size: 30pt; color: red;">My Paragraphs</h2>
+<p style="font-size: 10pt;">Paragraph 1</p>
+<p style="font-size: 10pt;">Paragraph 2</p>
+<hr />
+<p style="font-size: 10pt;">Paragraph 3</p>
+<p style="font-size: 10pt;">Paragraph 4</p>
+
+<button id="registerButton">Register</button>
+<br />
+Email: <input id="loginInputEmail" type="text" /><br />
+Password: <input id="loginInputPassword" type="text" /><br />
+
+<button id="loginButton">Login</button>
+
+<script type="text/javascript">
+
+async function register() {
+	const registerBody = {
+		email: 'hayden.smith@gmail.com',
+		password: 'ILoveCOMP1531',
+		name_first: 'Hayden',
+		name_last: 'Smith',
+	}
+	const result = await fetch('http://127.0.0.1:9877/auth/register/v2', {
+		method: 'POST',
+		headers: {
+		  'Content-Type': 'application/json',
+		},
+		body: JSON.stringify(registerBody),
+	});
+	const body = await result.json();
+	console.log(body);
+}
+
+async function login() {
+	const loginBody = {
+		email: document.getElementById('loginInputEmail').value,
+		password: document.getElementById('loginInputPassword').value,
+	}
+	const result = await fetch('http://127.0.0.1:9877/auth/login/v2', {
+		method: 'POST',
+		headers: {
+		  'Content-Type': 'application/json',
+		},
+		body: JSON.stringify(loginBody),
+	});
+	const body = await result.json();
+	console.log(body);
+}
+
+document.getElementById('registerButton').addEventListener('click', register);
+document.getElementById('loginButton').addEventListener('click', login);
+
+</script>
